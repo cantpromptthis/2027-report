@@ -1,0 +1,33 @@
+/* Four palettes of 2027 · Can't Prompt This · 2027 AI Brand Report
+   Each color measured from the brand's homepage on November 24, 2026.
+   Video and full report: https://www.youtube.com/@cantpromptthis */
+:root {
+  /* Electric Indigo and Lavender · Rising, 10 of 41 */
+  --electric-indigo-and-lavender-1: #9191E1; /* Decagon */
+  --electric-indigo-and-lavender-2: #A57DFF; /* Stability */
+  --electric-indigo-and-lavender-3: #735FEB; /* Leonardo */
+  --electric-indigo-and-lavender-4: #5555FF; /* Writer */
+  --electric-indigo-and-lavender-5: #4B41E1; /* Mercor */
+  --electric-indigo-and-lavender-6: #739BD7; /* Superhuman */
+  /* Warm Paper and Citrus · Rising, 8 of 41 */
+  --warm-paper-and-citrus-1: #FAF6F2; /* Replit page */
+  --warm-paper-and-citrus-2: #FAFAF6; /* Lindy page */
+  --warm-paper-and-citrus-3: #FF3705; /* Replit */
+  --warm-paper-and-citrus-4: #FFAF05; /* Mistral */
+  --warm-paper-and-citrus-5: #D79B23; /* Lindy */
+  --warm-paper-and-citrus-6: #C3CD4B; /* Granola */
+  /* Lights Off · Peaking, 14 of 41 */
+  --lights-off-1: #020202; /* Runway */
+  --lights-off-2: #1E1E1E; /* Stability */
+  --lights-off-3: #0E0E1A; /* Hugging Face */
+  --lights-off-4: #3A0A1E; /* Descript */
+  --lights-off-5: #424242; /* Hebbia */
+  --lights-off-6: #F53737; /* Descript button */
+  /* Aurora Glow · Peaking, 6 of 41 */
+  --aurora-glow-1: #E6EEFA; /* DeepSeek */
+  --aurora-glow-2: #9BB9FF; /* Lovable */
+  --aurora-glow-3: #CD87EB; /* Lovable */
+  --aurora-glow-4: #0505C3; /* Bolt */
+  --aurora-glow-5: #FF9B55; /* ElevenLabs */
+  --aurora-glow-6: #FFD719; /* Hugging Face */
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Four palettes of 2027",
+  "source": "Can't Prompt This \u00b7 2027 AI Brand Report",
+  "measured": "Each color measured from the brand's homepage on November 24, 2026",
+  "video": "https://www.youtube.com/@cantpromptthis",
+  "palettes": [
+    {
+      "name": "Electric Indigo and Lavender",
+      "status": "Rising, 10 of 41",
+      "colors": [
+        {
+          "hex": "#9191E1",
+          "seen_at": "Decagon"
+        },
+        {
+          "hex": "#A57DFF",
+          "seen_at": "Stability"
+        },
+        {
+          "hex": "#735FEB",
+          "seen_at": "Leonardo"
+        },
+        {
+          "hex": "#5555FF",
+          "seen_at": "Writer"
+        },
+        {
+          "hex": "#4B41E1",
+          "seen_at": "Mercor"
+        },
+        {
+          "hex": "#739BD7",
+          "seen_at": "Superhuman"
+        }
+      ]
+    },
+    {
+      "name": "Warm Paper and Citrus",
+      "status": "Rising, 8 of 41",
+      "colors": [
+        {
+          "hex": "#FAF6F2",
+          "seen_at": "Replit page"
+        },
+        {
+          "hex": "#FAFAF6",
+          "seen_at": "Lindy page"
+        },
+        {
+          "hex": "#FF3705",
+          "seen_at": "Replit"
+        },
+        {
+          "hex": "#FFAF05",
+          "seen_at": "Mistral"
+        },
+        {
+          "hex": "#D79B23",
+          "seen_at": "Lindy"
+        },
+        {
+          "hex": "#C3CD4B",
+          "seen_at": "Granola"
+        }
+      ]
+    },
+    {
+      "name": "Lights Off",
+      "status": "Peaking, 14 of 41",
+      "colors": [
+        {
+          "hex": "#020202",
+          "seen_at": "Runway"
+        },
+        {
+          "hex": "#1E1E1E",
+          "seen_at": "Stability"
+        },
+        {
+          "hex": "#0E0E1A",
+          "seen_at": "Hugging Face"
+        },
+        {
+          "hex": "#3A0A1E",
+          "seen_at": "Descript"
+        },
+        {
+          "hex": "#424242",
+          "seen_at": "Hebbia"
+        },
+        {
+          "hex": "#F53737",
+          "seen_at": "Descript button"
+        }
+      ]
+    },
+    {
+      "name": "Aurora Glow",
+      "status": "Peaking, 6 of 41",
+      "colors": [
+        {
+          "hex": "#E6EEFA",
+          "seen_at": "DeepSeek"
+        },
+        {
+          "hex": "#9BB9FF",
+          "seen_at": "Lovable"
+        },
+        {
+          "hex": "#CD87EB",
+          "seen_at": "Lovable"
+        },
+        {
+          "hex": "#0505C3",
+          "seen_at": "Bolt"
+        },
+        {
+          "hex": "#FF9B55",
+          "seen_at": "ElevenLabs"
+        },
+        {
+          "hex": "#FFD719",
+          "seen_at": "Hugging Face"
+        }
+      ]
+    }
+  ]
+}
